@@ -1,1 +1,1 @@
-# riscv-cpu
+# RISC-V RV32I CPU
